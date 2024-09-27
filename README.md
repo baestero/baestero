@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou [Seu Nome]
+# Olá! 👋 Eu sou [Leonardo]
 
 Bem-vindo ao meu perfil do GitHub! Sou **Analista de Testes Automatizados Júnior**, focado em garantir a qualidade de software através de testes eficientes e automatizados. Minha principal ferramenta de trabalho é o **Cypress**, com o qual desenvolvo testes ponta a ponta, sempre em busca de otimizar processos e aumentar a confiabilidade dos sistemas.
 
@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar e contribuir!
 
 ## 🔗 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+- [LinkedIn](https://www.linkedin.com/in/leonardo-b-576301124/) 
 - [GitHub](https://github.com/baestero)
 
 Vamos conectar e compartilhar conhecimentos!
