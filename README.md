@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Leonardo.
 
-🚀 Sobre Mim  
+##🚀 Sobre Mim  
 
 Atualmente, sou responsável por liderar iniciativas de automação de testes, onde desenvolvo suítes de testes robustas, incluindo testes de **login**, **consulta** e **inclusão de dados**. Além disso, implementei pipelines de integração contínua utilizando **GitHub Actions** e **GitLab CI/CD**, sempre visando a entrega de software de alta qualidade e performance.  
 
