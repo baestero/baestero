@@ -1,50 +1,86 @@
 # Olá! 👋 Eu sou Leonardo.
 
-Sou Analista de Testes Automatizados Júnior, com foco em garantir a qualidade de software através de testes eficientes e automatizados. Utilizo ferramentas modernas como Cypress e Playwright, sempre buscando otimizar processos, integrar pipelines de CI/CD e aumentar a confiabilidade dos sistemas.
+## 🚀 Sobre Mim  
 
-🚀 Sobre Mim
+Atualmente, sou responsável por liderar iniciativas de automação de testes no **Portal Buonny**, onde desenvolvo suítes de testes robustas, incluindo testes de **login**, **consulta** e **inclusão de dados**. Além disso, implementei pipelines de integração contínua utilizando **GitHub Actions** e **GitLab CI/CD**, sempre visando a entrega de software de alta qualidade e performance.  
 
-Atualmente, trabalho em um projeto desafiador com testes automatizados no Portal Buonny, onde utilizo Cypress como ferramenta principal. Paralelamente, estou aprofundando meus conhecimentos em GitHub Actions e GitLab CI/CD para implementar pipelines robustas e práticas de QA na empresa. Também estou explorando testes de API e técnicas avançadas de automação.
+Estou também aprofundando meus conhecimentos em **testes de API**, automação com **Python**, e uso avançado de **Docker** para configurar ambientes isolados de teste. Como o primeiro tester automatizado da minha empresa, busco sempre agregar valor com práticas modernas de QA.
 
-⚙️ Habilidades
+---
 
-Automação de Testes
-Ferramentas: Cypress, Playwright
-Tipos: Testes Funcionais, Testes de Regressão, Testes de API, Testes E2E
-Ambientes: Chrome, Edge, Firefox, Electron
-Integração Contínua / DevOps
-Pipelines: GitHub Actions, GitLab CI/CD
-Docker: Configuração de ambientes isolados para execução de testes
-Desenvolvimento Web
-Linguagens: JavaScript, HTML, CSS
-Automação com Python
-Colaboração em Equipe
-Metodologias Ágeis: Scrum, Kanban
-Boas Práticas de QA: Organização, documentação e controle de qualidade
-Ferramentas de Versionamento
-Git, GitHub, GitLab
+## ⚙️ Habilidades  
 
-🎯 Objetivos
-Continuo em busca de novos desafios para crescer como profissional de QA e automação de testes. Meu objetivo é implementar soluções de CI/CD, documentar processos de QA, e contribuir para a entrega de software confiável e de alta performance.
+### **Automação de Testes**  
+- Ferramentas: **Cypress**, **Playwright**  
+- Tipos de Testes: **Funcionais**, **Regressão**, **API**, **E2E**  
+- Suporte a navegadores: **Chrome**, **Edge**, **Firefox**, **Electron**  
 
-💻 Projetos
-Aqui estão alguns projetos e iniciativas que realizei:
+### **Integração Contínua / DevOps**  
+- Pipelines CI/CD: **GitHub Actions**, **GitLab CI/CD**  
+- Contêineres: **Docker**  
 
-Automação no Portal Buonny: Desenvolvimento de testes para login, inclusão e consulta utilizando Cypress.
-Integração de CI/CD: Implementação de pipelines no GitHub Actions e GitLab CI/CD.
-Testes de API: Criação de cenários de teste para validação de endpoints.
-Documentação de QA: Estruturação e organização de testes automatizados, incluindo documentação em PDF.
+### **Desenvolvimento Web**  
+- Linguagens: **JavaScript**, **HTML**, **CSS**  
+- Scripts de Automação: **Python**  
 
-## 🔗 Como me encontrar
+### **Gerenciamento e Documentação de QA**  
+- **Organização e Estruturação**: Testes documentados e estruturados em pastas organizadas  
+- Boas práticas: Uso de arquivos `.env` para proteger dados sensíveis  
 
-- [LinkedIn](https://www.linkedin.com/in/leonardo-b-576301124/) 
-- [GitHub](https://github.com/baestero)
+### **Metodologias Ágeis**  
+- **Scrum**, **Kanban**  
+- Experiência com times colaborativos e feedback contínuo  
 
-Vamos conectar e compartilhar conhecimentos!
+### **Ferramentas de Versionamento**  
+- **Git**, **GitHub**, **GitLab**  
 
-## 📊 GitHub Stats
+---
+
+## 🎯 Objetivos  
+
+Meu principal objetivo é me tornar **Analista de Testes Automatizados Pleno**, consolidando boas práticas de QA e implementando pipelines de CI/CD completas. Continuo em busca de aprender mais sobre:  
+- **Testes de API avançados**  
+- **Melhores práticas em pipelines DevOps**  
+- **Arquiteturas modernas para automação de testes**  
+
+---
+
+## 💻 Projetos  
+
+### **1. Automação no Portal Buonny**  
+- Desenvolvimento de testes automatizados para **login**, **consulta de dados** e **inclusão de SM**.  
+- Utilização de **Cypress** para criar cenários robustos e reutilizáveis.  
+- Configuração de testes para suportar múltiplos navegadores, incluindo **Chrome**, **Edge** e **Firefox**.  
+
+### **2. Integração de CI/CD**  
+- Implementação de pipelines no **GitHub Actions** e no **GitLab CI/CD** para rodar testes automatizados.  
+- Configuração de contêineres **Docker** para execução em ambientes isolados.  
+
+### **3. Testes de API**  
+- Criação de cenários automatizados para validação de endpoints RESTful.  
+- Uso de plugins como **cypress-plugin-api** para testes dinâmicos e captura de valores.  
+
+### **4. Estruturação e Documentação**  
+- Organização de suítes de testes em pastas, dividindo funcionalidades.
+- Criação de documentação de QA em formato PDF para facilitar a comunicação e referência no time.  
+
+---
+
+## 🔗 Como Me Encontrar  
+
+- **[LinkedIn](https://www.linkedin.com/in/leonardobaestero)**  
+- **[GitHub](https://github.com/baestero)**  
+- **[GitLab](https://gitlab.com/baestero)**  
+
+Vamos conectar e compartilhar conhecimentos sobre QA, automação de testes e CI/CD!
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baestero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baestero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
