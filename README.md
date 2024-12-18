@@ -1,8 +1,8 @@
 # Olá! 👋 Eu sou Leonardo.
 
-## 🚀 Sobre Mim  
+🚀 Sobre Mim  
 
-Atualmente, sou responsável por liderar iniciativas de automação de testes no **Portal Buonny**, onde desenvolvo suítes de testes robustas, incluindo testes de **login**, **consulta** e **inclusão de dados**. Além disso, implementei pipelines de integração contínua utilizando **GitHub Actions** e **GitLab CI/CD**, sempre visando a entrega de software de alta qualidade e performance.  
+Atualmente, sou responsável por liderar iniciativas de automação de testes, onde desenvolvo suítes de testes robustas, incluindo testes de **login**, **consulta** e **inclusão de dados**. Além disso, implementei pipelines de integração contínua utilizando **GitHub Actions** e **GitLab CI/CD**, sempre visando a entrega de software de alta qualidade e performance.  
 
 Estou também aprofundando meus conhecimentos em **testes de API**, automação com **Python**, e uso avançado de **Docker** para configurar ambientes isolados de teste. Como o primeiro tester automatizado da minha empresa, busco sempre agregar valor com práticas modernas de QA.
 
@@ -47,8 +47,8 @@ Meu principal objetivo é me tornar **Analista de Testes Automatizados Pleno**, 
 
 ## 💻 Projetos  
 
-### **1. Automação no Portal Buonny**  
-- Desenvolvimento de testes automatizados para **login**, **consulta de dados** e **inclusão de SM**.  
+### **1. Automação**  
+- Desenvolvimento de testes automatizados para **login**, **consulta de dados**.  
 - Utilização de **Cypress** para criar cenários robustos e reutilizáveis.  
 - Configuração de testes para suportar múltiplos navegadores, incluindo **Chrome**, **Edge** e **Firefox**.  
 
