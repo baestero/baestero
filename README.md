@@ -1,32 +1,36 @@
 # Olá! 👋 Eu sou Leonardo.
 
-Bem-vindo ao meu perfil do GitHub! Sou **Analista de Testes Automatizados Júnior**, focado em garantir a qualidade de software através de testes eficientes e automatizados. Minha principal ferramenta de trabalho é o **Cypress**, com o qual desenvolvo testes ponta a ponta, sempre em busca de otimizar processos e aumentar a confiabilidade dos sistemas.
+Sou Analista de Testes Automatizados Júnior, com foco em garantir a qualidade de software através de testes eficientes e automatizados. Utilizo ferramentas modernas como Cypress e Playwright, sempre buscando otimizar processos, integrar pipelines de CI/CD e aumentar a confiabilidade dos sistemas.
 
-## 🚀 Sobre Mim
+🚀 Sobre Mim
+Atualmente, trabalho em um projeto desafiador com testes automatizados no Portal Buonny, onde utilizo Cypress como ferramenta principal. Paralelamente, estou aprofundando meus conhecimentos em GitHub Actions e GitLab CI/CD para implementar pipelines robustas e práticas de QA na empresa. Também estou explorando testes de API e técnicas avançadas de automação.
 
-Atualmente, estou aprofundando meus conhecimentos em **GitHub Actions** para integrar automações de teste no fluxo de **CI/CD** e sempre busco aprender mais sobre práticas de **QA** e tecnologias que ajudam a entregar software de alta qualidade.
+⚙️ Habilidades
+Automação de Testes
+Ferramentas: Cypress, Playwright
+Tipos: Testes Funcionais, Testes de Regressão, Testes de API, Testes E2E
+Ambientes: Chrome, Edge, Firefox, Electron
+Integração Contínua / DevOps
+Pipelines: GitHub Actions, GitLab CI/CD
+Docker: Configuração de ambientes isolados para execução de testes
+Desenvolvimento Web
+Linguagens: JavaScript, HTML, CSS
+Automação com Python
+Colaboração em Equipe
+Metodologias Ágeis: Scrum, Kanban
+Boas Práticas de QA: Organização, documentação e controle de qualidade
+Ferramentas de Versionamento
+Git, GitHub, GitLab
+🎯 Objetivos
+Continuo em busca de novos desafios para crescer como profissional de QA e automação de testes. Meu objetivo é implementar soluções de CI/CD, documentar processos de QA, e contribuir para a entrega de software confiável e de alta performance.
 
-## ⚙️ Habilidades
+💻 Projetos
+Aqui estão alguns projetos e iniciativas que realizei:
 
-- **Testes Automatizados**: Cypress, Testes Funcionais, Testes de Regressão
-- **Integração Contínua**: GitHub Actions
-- **Desenvolvimento Web**: JavaScript, HTML, CSS
-- **Colaboração em Equipe**: Metodologias ágeis e boas práticas de QA
-- **Versionamento**: Git, GitHub
-
-## 🎯 Objetivos
-
-Estou sempre à procura de novos desafios e oportunidades para crescer como profissional de QA e automação de testes. Meu objetivo é me manter atualizado nas melhores práticas da área, contribuindo para o desenvolvimento de software confiável e de alta performance.
-
-## 💻 Projetos
-
-Aqui você pode encontrar alguns dos meus projetos mais recentes, que incluem:
-
-- Suítes de testes automatizados usando Cypress
-- Integração de testes com GitHub Actions
-- Scripts de automação de qualidade e tarefas de desenvolvimento web
-
-Sinta-se à vontade para explorar e contribuir!
+Automação no Portal Buonny: Desenvolvimento de testes para login, inclusão e consulta utilizando Cypress.
+Integração de CI/CD: Implementação de pipelines no GitHub Actions e GitLab CI/CD.
+Testes de API: Criação de cenários de teste para validação de endpoints.
+Documentação de QA: Estruturação e organização de testes automatizados, incluindo documentação em PDF.
 
 ## 🔗 Como me encontrar
 
