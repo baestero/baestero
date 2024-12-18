@@ -6,8 +6,6 @@ Atualmente, sou responsável por liderar iniciativas de automação de testes, o
 
 Estou também aprofundando meus conhecimentos em **testes de API**, automação com **Python**, e uso avançado de **Docker** para configurar ambientes isolados de teste. Como o primeiro tester automatizado da minha empresa, busco sempre agregar valor com práticas modernas de QA.
 
----
-
 ## ⚙️ Habilidades  
 
 ### **Automação de Testes**  
@@ -34,7 +32,7 @@ Estou também aprofundando meus conhecimentos em **testes de API**, automação 
 ### **Ferramentas de Versionamento**  
 - **Git**, **GitHub**, **GitLab**  
 
----
+
 
 ## 🎯 Objetivos  
 
@@ -43,7 +41,7 @@ Meu principal objetivo é me tornar **Analista de Testes Automatizados Pleno**, 
 - **Melhores práticas em pipelines DevOps**  
 - **Arquiteturas modernas para automação de testes**  
 
----
+
 
 ## 💻 Projetos  
 
@@ -64,7 +62,6 @@ Meu principal objetivo é me tornar **Analista de Testes Automatizados Pleno**, 
 - Organização de suítes de testes em pastas, dividindo funcionalidades.
 - Criação de documentação de QA em formato PDF para facilitar a comunicação e referência no time.  
 
----
 
 ## 🔗 Como Me Encontrar  
 
@@ -74,7 +71,7 @@ Meu principal objetivo é me tornar **Analista de Testes Automatizados Pleno**, 
 
 Vamos conectar e compartilhar conhecimentos sobre QA, automação de testes e CI/CD!
 
----
+
 
 ## 📊 GitHub Stats  
 
