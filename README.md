@@ -6,12 +6,12 @@
 📍 São Paulo/SP  
 
 ## 🌐 Redes Sociais:
----
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-b-576301124/)
 
 
 ## 💻 Tech Stack:
----
+
 ### Testes:  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  ![Playwright](https://img.shields.io/badge/-Playwright-45BA43?logo=playwright&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 
@@ -33,7 +33,7 @@
 
 
 ## 📊 GitHub Stats:
----
+
 
 ![baestero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baestero&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
