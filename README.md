@@ -6,7 +6,7 @@
 📍 São Paulo/SP  
 
 ## 🌐 Redes Sociais:
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/baestero)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-b-576301124/)
 
 ---
 
