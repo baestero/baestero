@@ -1,5 +1,8 @@
 # Olá! 👋 Eu sou Leonardo.
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="leonardo-b-576301124" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/leonardo-b-576301124?trk=profile-badge">Leonardo B.</a></div>
+              
+
 ## 🚀 Sobre Mim  
 
 Atualmente, sou responsável por liderar iniciativas de automação de testes, onde desenvolvo suítes de testes robustas, incluindo testes de **login**, **consulta** e **inclusão de dados**. Além disso, implementei pipelines de integração contínua utilizando **GitHub Actions** e **GitLab CI/CD**, sempre visando a entrega de software de alta qualidade e performance.  
