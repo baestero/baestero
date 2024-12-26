@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Leonardo Baestero
 
-🎯 Analista de Qualidade especializado em QA e Testes E2E.  
+🎯 Analista de Qualidade especializado em QA, Testes E2E e Testes de API.  
 🚀 Focado em construir pipelines de testes automatizados com Cypress e GitHub Actions.  
 📚 Apaixonado por Metodologias Ágeis e Integração Contínua/Deploy Contínuo (CI/CD).  
-📍 Baseado no Brasil | Aberto a oportunidades globais.  
+📍 São Paulo/SP  
 
 ## 🌐 Redes Sociais:
 [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/baestero)  
