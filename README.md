@@ -16,7 +16,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  ![Playwright](https://img.shields.io/badge/-Playwright-45BA43?logo=playwright&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 
 ### Frameworks, Plataformas e Bibliotecas:
-![Cucumber](https://img.shields.io/badge/-Cucumber-25B32A?logo=cucumber&logoColor=white)  ![Gherkin](https://img.shields.io/badge/-Gherkin-53B1C3?logo=gherkin&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-25B32A?logo=cucumber&logoColor=white)  ![Gherkin](https://img.shields.io/badge/-Gherkin-53B1C3?logo=gherkin&logoColor=white) ![Cypress Plugin API](https://img.shields.io/badge/-Cypress%20Plugin%20API-17202C?logo=cypress&logoColor=white)
 
 ### Linguagens:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
