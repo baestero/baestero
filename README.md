@@ -19,7 +19,7 @@ Estou também aprofundando meus conhecimentos em **testes de API**, e uso de **D
 
 ### **Desenvolvimento Web**  
 - Linguagens: **JavaScript**, **HTML**, **CSS**  
-- Scripts de Automação: **Python**  
+- Scripts de Automação: **Javascript**  
 
 ### **Gerenciamento e Documentação de QA**  
 - **Organização e Estruturação**: Testes documentados e estruturados em pastas organizadas  
