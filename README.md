@@ -2,7 +2,6 @@
 
 • 🎯 Analista de QA com experiência em Logística e Gerenciamento de Riscos, atuando como Analista de Testes.  
 • 🛠️ Habilidades em Testes Manuais, Testes Automatizados (Web e API) e Metodologias Ágeis.  
-• ✅ Proficiente em ferramentas como Cypress, Playwright, Postman, GitHub Actions, GitLab Azure Devops.  
 • 📍 São Paulo/SP  
 
 
