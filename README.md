@@ -17,9 +17,9 @@
 ## 💻 Tech Stack
 
 ### 🧪 Testes
-![Cypress](https://img.shields.io/badge/-Cypress-00FF00?logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-FFFFFF?logo=cypress&logoColor=00FF00)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00BFFF?style=flat&logo=robot-framework&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-FF4500?logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-FF69B4?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-8A2BE2?logo=appium&logoColor=white)
 ![Maestro](https://img.shields.io/badge/-Maestro-FFD700?style=flat&logoColor=black)
