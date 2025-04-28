@@ -17,12 +17,12 @@
 ## 💻 Tech Stack
 
 ### 🧪 Testes
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-ADD8E6?style=flat&logo=robot-framework&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-45BA43?logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-00FF00?logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00BFFF?style=flat&logo=robot-framework&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-FF4500?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Appium](https://img.shields.io/badge/-Appium-1C1E20?logo=appium&logoColor=white)
-![Maestro](https://img.shields.io/badge/-Maestro-000000?style=flat&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-8A2BE2?logo=appium&logoColor=white)
+![Maestro](https://img.shields.io/badge/-Maestro-FFD700?style=flat&logoColor=black)
 
 ### ⚙️ Frameworks e QA
 ![Cucumber](https://img.shields.io/badge/-Cucumber-25B32A?logo=cucumber&logoColor=white)
