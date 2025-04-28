@@ -18,7 +18,7 @@
 
 ### 🧪 Testes
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-ADD8E6?style=flat&logo=robot-framework&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-45BA43?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-1C1E20?logo=appium&logoColor=white)
