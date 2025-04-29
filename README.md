@@ -3,7 +3,7 @@
 • 🎯 Analista de QA com experiência em Logística e Gerenciamento de Riscos, atuando como Analista de Testes.  
 • 🛠️ Experiência em Testes Manuais, Testes Automatizados (Web, Mobile e API), Validação de Requisitos e Integração com times ágeis.  
 • 🚀 Forte atuação em DevOps e pipelines CI/CD com GitHub Actions, GitLab CI e Docker.  
-• 📍 São Paulo/SP
+• 📍 São Paulo/São Paulo
 
 ---
 
@@ -17,6 +17,7 @@
 ## 💻 Tech Stack
 
 ### 🧪 Testes
+
 ![Cypress](https://img.shields.io/badge/-Cypress-FFFFFF?logo=cypress&logoColor=00FF00)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00BFFF?style=flat&logo=robot-framework&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-FF69B4?logo=playwright&logoColor=white)
@@ -25,20 +26,24 @@
 ![Maestro](https://img.shields.io/badge/-Maestro-FFD700?style=flat&logoColor=black)
 
 ### ⚙️ Frameworks e QA
+
 ![Cucumber](https://img.shields.io/badge/-Cucumber-25B32A?logo=cucumber&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/-Gherkin-53B1C3?logo=gherkin&logoColor=white)
 
 ### 🌐 Desenvolvimento Web
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🧠 Ferramentas e Projetos
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
 ### 🔧 CI/CD & Versionamento
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
@@ -50,37 +55,38 @@
 ## 📌 Experiência Profissional
 
 **Buonny Projetos e Serviços LTDA — São Paulo-SP**  
-*Analista de QA | Outubro 2024 – Presente*
+_Analista de QA | Outubro 2024 – Presente_
 
-- ✅ Automatizei testes críticos com Cypress, ampliando a cobertura de testes e reduzindo falhas em produção.  
-- 🔍 Desenvolvi testes de API com Postman e SQL, otimizando validações técnicas.  
-- ⚙️ Implementei pipelines CI/CD com GitHub Actions e GitLab CI, usando runners dedicados.  
-- 📚 Promovi a cultura de qualidade com treinamentos, documentação e apoio em squads ágeis.  
-- 🎯 Atuei desde o refinamento de requisitos até homologação, garantindo entregas confiáveis.  
+- ✅ Automatizei testes críticos com Cypress, ampliando a cobertura de testes e reduzindo falhas em produção.
+- 🔍 Desenvolvi testes de API com Postman e SQL, otimizando validações técnicas.
+- ⚙️ Implementei pipelines CI/CD com GitHub Actions e GitLab CI, usando runners dedicados.
+- 📚 Promovi a cultura de qualidade com treinamentos, documentação e apoio em squads ágeis.
+- 🎯 Atuei desde o refinamento de requisitos até homologação, garantindo entregas confiáveis.
 
 ---
 
 ## 🔨 Projetos Profissionais
 
 ### [`mail2api`](https://github.com/baestero/mail2api)
+
 > Solução em Node.js e Cypress para automação de endpoints via e-mail. Permite o envio de XML por e-mail e validação do fluxo via front-end. Flexível, configurável e ideal para automação baseada em comunicação assíncrona.
 
 ---
 
 ## 📚 Cursos Complementares
 
-- Cypress do Básico ao Avançado – Udemy  
-- Testes de API com Postman – Udemy  
-- Automação de Testes com Playwright – Udemy  
-- HTML, CSS e JavaScript – Origamid  
-- Automação Mobile com Maestro (JavaScript) e Appium (Java) – Qazando  
+- Cypress do Básico ao Avançado – Udemy
+- Testes de API com Postman – Udemy
+- Automação de Testes com Playwright – Udemy
+- HTML, CSS e JavaScript – Origamid
+- Automação Mobile com Maestro (JavaScript) e Appium (Java) – Qazando
 
 ---
 
 ## 🌍 Idiomas
 
-- **Inglês:** Técnico (leitura e escrita técnica)  
-- **Espanhol:** Básico  
+- **Inglês:** Técnico (leitura e escrita técnica)
+- **Espanhol:** Básico
 
 ---
 
