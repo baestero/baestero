@@ -3,7 +3,7 @@
 • 🎯 Analista de QA com experiência em Logística e Gerenciamento de Riscos, atuando como Analista de Testes.  
 • 🛠️ Experiência em Testes Manuais, Testes Automatizados (Web, Mobile e API), Validação de Requisitos e Integração com times ágeis.  
 • 🚀 Forte atuação em DevOps e pipelines CI/CD com GitHub Actions, GitLab CI e Docker.  
-• 📍 São Paulo/São Paulo
+• 📍 São Paulo/SP
 
 ---
 
