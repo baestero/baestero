@@ -70,7 +70,7 @@ _Analista de QA | Outubro 2024 – Presente_
 ### [`mail2api`](https://github.com/baestero/mail2api)
 
 > Solução em Node.js e Cypress para automação de endpoints via e-mail. Permite o envio de XML por e-mail e validação do fluxo via front-end. Flexível, configurável e ideal para automação baseada em comunicação assíncrona.
-Um exemplo de fluxo está documentado neste [PDF de caso de uso]([https://github.com/baestero/Mail2API/blob/main/caso_de_uso.mail2api.pdf])
+Um exemplo de fluxo está documentado neste [PDF de caso de uso](([https://github.com/baestero/Mail2API/blob/main/caso_de_uso.mail2api.pdf]))
 
 ---
 
