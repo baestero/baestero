@@ -80,7 +80,7 @@ Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.
 - Testes de API com Postman – Udemy
 - Automação de Testes com Playwright – Udemy
 - HTML, CSS e JavaScript – Origamid
-- Automação Mobile com Maestro (JavaScript) e Appium (Java) – Qazando
+- Automação Mobile com Maestro (JavaScript) e Appium (Robot Framework) – Qazando
 
 ---
 
