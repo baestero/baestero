@@ -35,6 +35,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### 🧠 Ferramentas e Projetos
 
@@ -79,7 +80,7 @@ Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.
 - Cypress do Básico ao Avançado – Udemy
 - Testes de API com Postman – Udemy
 - Automação de Testes com Playwright – Udemy
-- HTML, CSS e JavaScript – Origamid
+- HTML, CSS, JavaScript e React – Origamid
 - Automação Mobile com Maestro (JavaScript) e Appium (Robot Framework) – Qazando
 
 ---
