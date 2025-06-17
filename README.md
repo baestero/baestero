@@ -23,7 +23,7 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-FF69B4?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-8A2BE2?logo=appium&logoColor=white)
-![Maestro](https://img.shields.io/badge/-Maestro-FFD700?style=flat&logoColor=black)
+
 
 ### ⚙️ Frameworks e QA
 
