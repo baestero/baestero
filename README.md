@@ -103,7 +103,8 @@ Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.
 
 ## 📊 GitHub Stats
 
-![baestero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baestero&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baestero&langs_count=6&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baestero&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baestero&layout=compact&theme=radical)
 
 ---
