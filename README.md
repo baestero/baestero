@@ -97,22 +97,5 @@ Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.
 ## 🌍 Idiomas
 
 - **Inglês:** Técnico (leitura e escrita técnica)
-- **Espanhol:** Básico
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=baestero&show_icons=true&theme=radical&cache_seconds=1800"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=baestero&layout=compact&theme=radical&cache_seconds=1800"
-  />
-</p>
 
 ---
