@@ -89,6 +89,9 @@ Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.
 ### [`LiftlyApp`](https://liftlyapp.vercel.app/)
 >  Liftly - Uma plataforma completa para gerenciamento de exercícios físicos e treinos. Este é o frontend React que se conecta com a API backend em Node e Banco MongoDB para fornecer uma interface moderna e intuitiva para usuários gerenciarem seus exercícios.
 
+Usuário: teste
+senha: 1234
+
 Deploy da aplicação aqui: https://liftlyapp.vercel.app/
 
 ---
