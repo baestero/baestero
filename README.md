@@ -86,6 +86,11 @@ _Analista de QA | Outubro 2024 – Presente_
 > Solução em Node.js e Cypress para automação de endpoints via e-mail. Permite o envio de XML por e-mail e validação do fluxo via front-end. Flexível, configurável e ideal para automação baseada em comunicação assíncrona.
 Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.com/baestero/Mail2API/blob/main/caso_de_uso.mail2api.pdf)
 
+### [`LiftlyApp`]([https://github.com/baestero/mail2api](https://github.com/baestero/liftly-frontend)/ https://github.com/baestero/liftly-backend)
+Frontend da aplicação Liftly - Uma plataforma completa para gerenciamento de exercícios físicos e treinos. Este é o frontend React que se conecta com a API backend para fornecer uma interface moderna e intuitiva para usuários gerenciarem seus exercícios.
+
+Deploy da aplicação aqui: https://liftlyapp.vercel.app/
+
 ---
 
 ## 📚 Cursos Complementares
