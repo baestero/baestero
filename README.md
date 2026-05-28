@@ -87,7 +87,7 @@ _Analista de QA | Outubro 2024 – Presente_
 Um exemplo de fluxo está documentado neste [PDF de caso de uso](https://github.com/baestero/Mail2API/blob/main/caso_de_uso.mail2api.pdf)
 
 ### [`LiftlyApp`](https://liftlyapp.vercel.app/)
-Frontend da aplicação Liftly - Uma plataforma completa para gerenciamento de exercícios físicos e treinos. Este é o frontend React que se conecta com a API backend para fornecer uma interface moderna e intuitiva para usuários gerenciarem seus exercícios.
+>  Liftly - Uma plataforma completa para gerenciamento de exercícios físicos e treinos. Este é o frontend React que se conecta com a API backend em Node e Banco MongoDB para fornecer uma interface moderna e intuitiva para usuários gerenciarem seus exercícios.
 
 Deploy da aplicação aqui: https://liftlyapp.vercel.app/
 
